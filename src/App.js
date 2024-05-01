@@ -1,25 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react'; // Import the React library
+import './App.css'; // Import CSS file for styling (if needed)
+import Checkout from './Checkout'; 
 function App() {
+  const handleCheckout = () => {
+    Checkout(); 
+  };
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Welcome to My React App!</h1>
+        <button onClick={handleCheckout}>Checkout</button> {/* Button to trigger checkout */}
       </header>
     </div>
   );
 }
-
 export default App;
