@@ -219,9 +219,7 @@ div {
   font-size: 23px; 
 }
 .rectangle-4 {
-  font-size: 23px; /* تكبير حجم النص داخل مربع النص إلى 18 بكسل */
-}
-
+  font-size: 23px; }
 .checkout .text-wrapper-19 {
   color: #000000;
   font-family: "Port Lligat Sans", Helvetica;
@@ -235,8 +233,7 @@ div {
   white-space: nowrap;
 }
 .overlap-group-3 {
-  font-size: 18px; /* تكبير حجم النص إلى 18 بكسل، يمكن تعديل هذا الرقم حسب الحاجة */
-}
+  font-size: 18px; }
 
 .checkout .rectangle-3 {
   background-color: #ffffff;
@@ -327,8 +324,7 @@ div {
   width: 456px;
 }
 .first-name {
-  font-size:25px; /* تكبير حجم النص إلى 20 بكسل، يمكن تعديل هذا الرقم حسب الحاجة */
-}
+  font-size:25px; }
 
 .checkout .group-22 {
   height: 75px;
@@ -339,8 +335,7 @@ div {
  
 }
 .overlap-group-3 {
-  font-size: 23px; /* تكبير حجم النص الافتراضي داخل مربع النص إلى 18 بكسل */
-}
+  font-size: 23px; }
 
 .checkout .overlap-group-3 {
   background-color: #ffffff;
@@ -354,24 +349,24 @@ div {
 .custom-button {
   background: linear-gradient(180deg, rgb(247.21, 238.47, 213.22) 1.5%, rgb(255, 207.75, 103.06) 96.5%);
   border: 1px solid;
-  border-radius: 8px; /* تحديد شدة الزوايا بقيمة 8 بكسل */
-  color: rgb(0, 0, 0); /* لون النص */
-  padding: 15px 32px; /* مسافة الحشو */
-  text-align: center; /* محاذاة النص */
-  text-decoration: none; /* إزالة التزيين */
+  border-radius: 8px; 
+  color: rgb(0, 0, 0); 
+  padding: 15px 32px; 
+  text-align: center; 
+  text-decoration: none; 
   display: inline-block;
   font-size: 30px;
   margin: 8px -1px;
-  width: 380px; /* تحديد العرض الجديد للزر */
+  width: 380px; 
   height: 65;
-  transition-duration: 0.4s; /* تأثير التحول عند التحويل */
-  cursor: pointer; /* تغيير شكل المؤشر عند التحويل */
-  margin-top: -1.5px; /* تحديد المسافة للرفع الزر لأعلى بمقدار 10 بكسل */
+  transition-duration: 0.4s; 
+  cursor: pointer; 
+  margin-top: -1.5px;
 }
 
 .custom-button:hover {
-  background-color: #daaa10; /* تغيير لون الخلفية عند تحويل المؤشر */
-  color:#daaa10; /* تغيير لون النص عند تحويل المؤشر */
+  background-color: #daaa10; 
+  color:#daaa10; 
 }
 
 .custom-button1 {
@@ -392,9 +387,9 @@ div {
   margin-top: -1.5px; 
 }
 .custom-button1:hover {
-  background-color: #daaa10; /* تغيير لون الخلفية عند تحويل المؤشر */
-  color: #daaa10; /* تغيير لون النص عند تحويل المؤشر */
-}
+  background-color: #daaa10; 
+  color: #daaa10; } 
+  
 .checkout .text-wrapper-21 {
   color: #b6b4b4;
   font-family: "Port Lligat Sans", Helvetica;
