@@ -68,13 +68,6 @@ div {
   width: 77px;
 }
 
-.checkout .group-14 {
-  height: 24px;
-  left: 660px;
-  position: absolute;
-  top: 201px;
-  width: 161px;
-}
 
 .checkout .text-wrapper-15 {
   color: #000000;
@@ -100,13 +93,7 @@ div {
   top: 0;
 }
 
-.checkout .dashicons-arrow-down {
-  height: 20px;
-  left: 54px;
-  position: absolute;
-  top: 2px;
-  width: 20px;
-}
+
 
 .checkout .overlap-2 {
   height: 1804px;
@@ -448,13 +435,7 @@ div {
   top: 73px;
 }
 
-.checkout .dashicons-arrow-down-2 {
-  height: 20px;
-  left: 408px;
-  position: absolute;
-  top: 75px;
-  width: 20px;
-}
+
 
 .checkout .group-25 {
   height: 121px;
@@ -490,20 +471,14 @@ div {
   top: 25px;
 }
 
-.checkout .dashicons-arrow-down-3 {
-  height: 20px;
-  left: 407px;
-  position: absolute;
-  top: 74px;
-  width: 20px;
-}
+
 
 .checkout .your-personal-data {
   color: transparent;
   font-family: "Port Lligat Sans", Helvetica;
   font-size: 24px;
   font-weight: 400;
-  left: 568px;
+  left: 655px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
@@ -522,9 +497,9 @@ div {
 
 .checkout .group-27 {
   height: 472px;
-  left: 568px;
+  left: 640px;
   position: absolute;
-  top: 538px;
+  top: 550px;
   width: 751px;
 }
 
@@ -542,11 +517,12 @@ div {
 }
 .checkout .line-3 {
   height: 1px;
-  left: 2px;
+  left: 100px;
   object-fit: cover;
   position: absolute;
   top: 0;
   width: 749px;
+  color:black;
 }
 
 .checkout .group-30 {
@@ -726,7 +702,7 @@ div {
   font-family: "Quattrocento", Helvetica;
   font-size: 22px;
   font-weight: 700;
-  left: -1.5cm;
+  left: -.9cm;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
@@ -752,7 +728,7 @@ div {
   font-family: "Poppins", Helvetica;
   font-size: 20px;
   font-weight: 500;
-  left: 310px;
+  left: 445px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
@@ -765,11 +741,11 @@ div {
   font-family: "Poppins", Helvetica;
   font-size: 20px;
   font-weight: 500;
-  left: 303px;
+  left: 445px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 91px;
+  top: 97px;
   width: 409px;
 }
 
@@ -778,11 +754,11 @@ div {
   font-family: "Poppins", Helvetica;
   font-size: 20px;
   font-weight: 500;
-  left: 300px;
+  left: 445px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 130px;
+  top: 140px;
   width: 409px;
 }
 
@@ -826,7 +802,7 @@ div {
   font-family: "Quattrocento", Helvetica;
   font-size: 22px;
   font-weight: 700;
-  left: 19.5cm;
+  left: 20cm;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
@@ -839,7 +815,7 @@ div {
   font-family: "Quattrocento", Helvetica;
   font-size: 22px;
   font-weight: 700;
-  left: 759px;
+  left: 745px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;

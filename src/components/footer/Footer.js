@@ -16,6 +16,7 @@ export default function Footer() {
                     fontFamily: "Arial",
                     fontWeight: 700,
                     wordWrap: "break-word",
+                  top:300,
                   }}
                   className="text-uppercase fw-bold mb-4"
                 >

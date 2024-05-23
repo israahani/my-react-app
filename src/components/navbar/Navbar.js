@@ -40,7 +40,6 @@ export default function NavBar() {
   return (
     <>
       <Navbar className="navbar" expand="lg">
-        <Navbar.Brand href="#company-name">PaliParts</Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse>
           <Nav className="mx-auto">
@@ -55,7 +54,7 @@ export default function NavBar() {
                 fontWeight: "bold",
               }}
             >
-              Home
+             
             </Nav.Link>
             <Nav.Link
               as={Link}
@@ -68,7 +67,6 @@ export default function NavBar() {
                 fontWeight: "bold",
               }}
             >
-              Shop
             </Nav.Link>
             <Nav.Link
               as={Link}
@@ -81,7 +79,6 @@ export default function NavBar() {
                 fontWeight: "bold",
               }}
             >
-              About
             </Nav.Link>
             <Nav.Link
               as={Link}
@@ -93,7 +90,6 @@ export default function NavBar() {
                 fontWeight: "bold",
               }}
             >
-              Contact
             </Nav.Link>
           </Nav>
 

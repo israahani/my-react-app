@@ -6,8 +6,11 @@
     bottom: 0; /* Align it to the bottom */
     width: 100%; /* Full width */
     box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1); /* Slight shadow for separation */
+    top:3cm;
   }
-  
+  .container text-center text-md-start mt-5{
+    top:10cm;
+  }
   /* Style for footer titles */
   .footer-title {
     font-size: 24px; /* Larger font size */
@@ -36,7 +39,7 @@
   
   /* Additional styling for container and sections */
   .container {
-    max-width: 1200px; /* Limit the max width */
+    max-width: 5cm; /* Limit the max width */
     margin: 0 auto; /* Center align */
   }
   
