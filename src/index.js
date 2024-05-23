@@ -1,13 +1,18 @@
+// src/index.js
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter } from 'react-router-dom';
 import './index.css';
-import Checkout from './src/components/Checkout'; // Check the file path
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render( 
+ReactDOM.render(
   <React.StrictMode>
-    <Checkout /> 
-  </React.StrictMode>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  </React.StrictMode>,
+  document.getElementById('root')
 );
+
 reportWebVitals();
